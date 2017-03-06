@@ -1,0 +1,9 @@
+{
+  "name": "babel-plugin-strip-css-imports",
+  "version": "1.0.0",
+  "description": "Strip CSS import lines from source code",
+  "main": "index.js",
+  "repository": "zhusee2/babel-plugin-strip-css-imports",
+  "author": "Teng-hao Chang <zhusee2@gmail.com>",
+  "license": "MIT"
+}
